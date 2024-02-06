@@ -1,0 +1,5 @@
+python-h11 source: file-without-copyright-information
+python-h11 source: no-debian-changes
+python-h11 source: source-contains-prebuilt-windows-binary
+python-h11 source: source-is-missing
+python-h11 source: source-package-encodes-python-version
